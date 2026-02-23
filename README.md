@@ -73,4 +73,5 @@ The objective is to derive business insights using Exploratory Data Analysis (ED
 - Strengthen marketing for medium-sized outlets.
 
 📷 Dashboard Preview
-![Blinkit Dashboard](dashboard_screenshot.png)
+
+![Blinkit Dashboard](dashboard_screenshot.png.png)
